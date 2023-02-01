@@ -1,0 +1,15 @@
+## Alume
+# name:         title
+# en_name:      english name
+# description:  description
+# cover:        cover path
+# link:         link
+# preview:      preview (if none, leave empty)
+#
+- name: 柚香起司蛋糕
+  en_name: Grapefruit Sause Cheese Cake
+  description: 享受柚子醬和順滑乳酪的完美搭配，那清淡美味的起司蛋糕絕對令你回味無窮。
+  cover: /images/foods/dessert/grapefruit-falvor-cheese-cake.jpg
+  link: 
+  preview: 
+

@@ -1,0 +1,10 @@
+## 联系方式
+# name:         Contact method
+# en_name:      English
+# icon:         Icon path
+# link:         link path
+#
+- name: Email
+  en_name: e-mail
+  icon: /images/icons/contact_email.svg
+  link: javascript:alert('is not available');

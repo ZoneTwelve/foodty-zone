@@ -1,0 +1,54 @@
+## Index Section
+# name:         Name
+# title:        title
+# subtitle:     subtitle
+#
+- name: album
+  id: 
+  title: 相片
+  subtitle: A Journey Through the Tastebuds - Exploring the World of Food
+  partial: album
+  bg_color: 
+  fluid: 
+  more: 
+
+#- name: stories
+#  id: 
+#  title: 故事
+#  subtitle: The stories
+#  partial: page/stories
+#  bg_color: bg-light
+#  fluid: 
+#  more: 
+
+- name: archive
+  id: 
+  title: 文章
+  subtitle: The news
+  partial: archive
+  bg_color: 
+  fluid: 
+  more: /archives/
+
+# - name: customers
+#   id: 
+#   title: 客户
+#   subtitle: 我们的客户来自世界上最好的公司
+#   partials: [instapic, quotation]
+#   bg_color: 
+#   fluid: 
+#   more: 
+
+# - name: solution
+#   id: 
+#   title: Solution
+#   subtitle: 
+#   partial: solution
+#   bg_color: 
+
+# - name: pricing
+#   id: 
+#   title: plan
+#   subtitle: 
+#   partial: pricing
+#   bg_color: 

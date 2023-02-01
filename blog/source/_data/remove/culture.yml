@@ -1,0 +1,14 @@
+## Intro
+# name:         Title
+# en_name:      English title
+# description:  description
+# cover:        cover path
+# cover_size:   cover size
+# link:         link path (if none, leave blank)
+#
+- name: Hello
+  en_name: 
+  description: Description
+  cover: /images/culture/icon_1.svg
+  cover_size: 64
+  link:
