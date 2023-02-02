@@ -1,5 +1,5 @@
 ---
-title: 画廊
+title: 畫廊
 data: gallery
 layout: plugins
 partial: gallery

@@ -103,5 +103,5 @@ theme: acorn
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/ZoneTwelve/foodty-zone
+  repo: git@github.com:/ZoneTwelve/foodty-zone.git
   branch: main

@@ -3,7 +3,7 @@ menu:
   首頁: /
   畫廊: /gallery
   故事: /stories
-  新聞: /archives
+  文章: /archives
   關於: /about
 
 # Content
@@ -41,8 +41,8 @@ toc: true
 slogan: 
   primary: tasty food in my mouth
   secondary: Experience authentic Taiwanese cuisine with every visit.
-  archives: Archives open mind
-  pages: A faster way to know the food of Taiwana
+  archives: Discovering and Preserving History
+  pages: A faster way to know the food of Taiwan.
   posts: Discover the flavors of Taiwan, one bite at a time.
 
 # Library
