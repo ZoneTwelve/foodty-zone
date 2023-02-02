@@ -1,0 +1,55 @@
+# Header
+menu:
+  首頁: /
+  畫廊: /gallery
+  故事: /stories
+  新聞: /archives
+  關於: /about
+
+# Content
+excerpt_link: 閱讀全文
+
+# MIIT ICP/IP/DOMAIN
+beian: 
+  enable: false
+  number: 
+  url: https://foodty.zonetwelve.io
+# Miscellaneous
+favicon: /images/favicon.ico
+webclip: /images/webclip
+brand:   /images/brand.png
+
+# Jumbotron video & Hero image & Swiper
+## Jumbotron video
+
+video: 
+  overlay: false
+  path: /images/movie/
+## Hero image
+hero: 
+  image: /images/banner/banner.jpg
+## Swiper
+## https://github.com/nolimits4web/swiper
+swiper: 
+  enable: false
+
+# Toc
+## https://github.com/tscanlin/tocbot
+toc: true
+
+# Slogan
+slogan: 
+  primary: tasty food in my mouth
+  secondary: Experience authentic Taiwanese cuisine with every visit.
+  archives: Archives open mind
+  pages: A faster way to know the food of Taiwana
+  posts: Discover the flavors of Taiwan, one bite at a time.
+
+# Library
+libs:
+  feather: /libs/feather/feather.min.js # V4.29.0
+  lazysizes: /libs/lazysizes/lazysizes.min.js
+  tocbot: /libs/tocbot/tocbot.min.js
+  swiper: 
+    css: /libs/swiper/swiper-bundle.min.css
+    js:  /libs/swiper/swiper-bundle.min.js
