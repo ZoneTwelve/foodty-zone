@@ -24,7 +24,7 @@
 - name: archive
   id: 
   title: 文章
-  subtitle: The news
+  subtitle: The article
   partial: archive
   bg_color: 
   fluid: 
