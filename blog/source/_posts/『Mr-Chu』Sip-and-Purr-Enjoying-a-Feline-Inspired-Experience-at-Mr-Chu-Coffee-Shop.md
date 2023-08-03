@@ -8,7 +8,12 @@ tags:
   - Cat person
 ---
 
+... Intro ...
+
+
+<!-- more -->
 ## Location
+這是一家位於新北市永和區的咖啡廳，
 
 ## Ambiance
 
